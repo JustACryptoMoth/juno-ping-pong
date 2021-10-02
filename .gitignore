@@ -9,4 +9,4 @@
 artifacts/
 
 # Anything from rls
-voting/rls
+contract/rls
